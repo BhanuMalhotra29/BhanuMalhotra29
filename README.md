@@ -2,7 +2,6 @@
 - 👀 I’m interested in Devops 
 - 🌱 I’m currently learning cultural philosophies, practices, and tools used in devops
 culture of software development.
--
 - 📫 How to reach me bhanumalhotra121@gmail.com
 
 <!---
